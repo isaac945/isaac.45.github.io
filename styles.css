@@ -1,0 +1,23 @@
+h1{
+	color:red;
+  font-family:Courier New, monospace
+}
+h2{
+  color:red;
+  font-size:30px;
+  font-family:Stencil Std, fantasy
+}
+h3{
+  color:grey;
+  font-size:30px;
+  font-family: Brush Script MT, Brush Script Std, cursive
+}
+p{
+  font-family: Comic Sans MS
+}
+p1{
+  font-family: courier new, monospace
+}
+li{
+  font-family:courier new, monospace
+}
